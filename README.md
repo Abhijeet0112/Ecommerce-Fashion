@@ -134,4 +134,28 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature-name`).  
 5. Open a Pull Request.  
 
+## Screenshots
+Here are some screenshots of the project:
+
+### Home Page
+![Home Page](ProjectPhotos/Home.png)
+
+### List of Products
+![List of Products](ProjectPhotos/List_Of_Products.png)
+
+### Product Details
+![Product Details](ProjectPhotos/Product_Details.png)
+
+### Add Product
+![Add Product](ProjectPhotos/Add_Product.png)
+
+### Update Product
+![Update Product](ProjectPhotos/Update_Product.png)
+
+### Add Review
+![Add Review](ProjectPhotos/Add_Review.png)
+
+### Update Review
+![Update Review](ProjectPhotos/Update_Review.png)
+
 ---
